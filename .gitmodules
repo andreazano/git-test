@@ -1,0 +1,3 @@
+[submodule "SubMod1/informatica1"]
+	path = SubMod1/informatica1
+	url = git@github.com:andreazano/informatica1.git
